@@ -18,17 +18,17 @@
 //*
 //  * @project_name : © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ
 //  * @version      : 4.0
-//  * @author       : Janith Rashmika
+//  * @author       : PODIYA-XR 
 //  * @youtube      : https://www.youtube.com/@gamingrash2006
 //  * @description  : © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ, A Multi-functional WhatsApp bot created by Janith Rashmika.
 //*
 //*
-//Base by Janith Rashmika
+//Base by PODIYA-XR 
 //GitHub: @Mrrashmika
-//WhatsApp: +94717775628
+//WhatsApp: +94774397157
 //Want more free bot scripts? Subscribe to my YouTube channel: https://youtube.com/@gamingrash2006
 //   * Created By GitHub: Mrrashmika
-//   * Credit To Janith Rashmika
+//   * Credit To PODIYA-XR 
 //   * © 2025 © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ-V4.
 // ⛥┌┤
 // */
